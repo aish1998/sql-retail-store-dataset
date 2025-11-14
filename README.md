@@ -19,11 +19,16 @@ Through these projects, I practiced:
 
 * Business insights (sales trends, repeat customers, inventory risk)
 
+## 📊 Project Presentation
+
+### 🔹 View Presentation (PDF)
+You can view the complete presentation directly on GitHub:
+
+👉 Click to View Presentation : https://github.com/aish1998/sql-retail-store-dataset/blob/main/Retail%20Store%20-Data-Insights-SQL-Project%20.pdf
 
 
- ## Projects 
+ ## Project 
  
-
 Project 1: Customer Lifetime Value
 
 💡 Find total money spent by each customer.
