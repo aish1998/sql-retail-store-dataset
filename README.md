@@ -24,8 +24,7 @@ Through these projects, I practiced:
 ### 🔹 View Presentation (PDF)
 You can view the complete presentation directly on GitHub:
 
-👉 Click to View Presentation : https://github.com/aish1998/sql-retail-store-dataset/blob/main/Retail%20Store%20-Data-Insights-SQL-Project%20.pdf
-
+👉 Click to View Presentation : https://github.com/aish1998/sql-retail-store-dataset/blob/main/Retail%20Store%20-Data-Insights-SQL-Project%20%20.pdf
 
  ## Project 
  
